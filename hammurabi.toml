@@ -1,0 +1,13 @@
+# Hammurabi configuration for hydai/vibe-vibe
+
+repo = "hydai/vibe-vibe"
+ai_model = "claude-opus-4-6[1m]"
+ai_effort = "high"
+approvers = ["hydai"]
+
+# Optional tuning (defaults shown):
+# poll_interval = 60
+# max_concurrent_agents = 3
+# tracking_label = "hammurabi"
+# stale_timeout_days = 7
+# ai_max_turns = 50
