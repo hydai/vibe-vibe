@@ -8,13 +8,15 @@ Generate a SPEC.md for the following GitHub issue.
 ## Issue
 **Title:**
 <untrusted-issue-title-content>
-idea: create readme
+Create README.md
 </untrusted-issue-title-content>
 
 **Body:**
 <untrusted-issue-body-content>
-this project is for my personal idea pool, and is managed by [hammurabi](https://github.com/hydai/hammurabi).
-I want a init readme for a placeholder.
+Create a README.md file in the repository root as an initial placeholder. Include the project name (vibe-vibe), a brief description stating it is a personal idea pool, and a note that the project is managed by Hammurabi (https://github.com/hydai/hammurabi). Keep it minimal and suitable as a starting point that can be expanded later.
+
+---
+*Sub-issue of #1*
 </untrusted-issue-body-content>
 
 ## Rules
