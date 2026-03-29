@@ -1,2 +1,3 @@
 # Hammurabi daemon data
 .hammurabi/
+*.pem

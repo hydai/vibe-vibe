@@ -5,6 +5,11 @@ ai_model = "claude-opus-4-6[1m]"
 ai_effort = "high"
 approvers = ["hydai"]
 
+[github_app]
+app_id = 3217479
+private_key_path = "./bot-pk.pem"
+installation_id = 119895170
+
 # Optional tuning (defaults shown):
 # poll_interval = 60
 # max_concurrent_agents = 3
