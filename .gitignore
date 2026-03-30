@@ -1,3 +1,6 @@
 # Hammurabi daemon data
 .hammurabi/
 *.pem
+
+# Rust build artifacts
+target/
